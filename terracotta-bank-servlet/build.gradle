@@ -121,7 +121,7 @@ dependencies {
 	testCompile('io.github.bonigarcia:webdrivermanager:4.2.2')
  	testCompile('org.mockito:mockito-core')
 	testCompile('org.seleniumhq.selenium:selenium-api:3.141.59')
-	testCompile('org.seleniumhq.selenium:selenium-java:3.141.59')
+	testCompile('org.seleniumhq.selenium:selenium-java:4.0.0-beta-4')
 	testCompile('org.seleniumhq.selenium:selenium-firefox-driver:3.141.59')
 	testCompile('org.seleniumhq.selenium:selenium-remote-driver:3.141.59')
 	testCompile('org.seleniumhq.selenium:selenium-support:3.141.59')
