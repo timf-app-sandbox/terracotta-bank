@@ -118,7 +118,7 @@ dependencies {
 
 	testCompile('com.github.docker-java:docker-java:3.0.14')
 	testCompile('com.github.mike10004:littleproxy:1.1.3socksmod1')
-	testCompile('io.github.bonigarcia:webdrivermanager:4.2.2')
+	testCompile('io.github.bonigarcia:webdrivermanager:5.1.0')
  	testCompile('org.mockito:mockito-core')
 	testCompile('org.seleniumhq.selenium:selenium-api:3.141.59')
 	testCompile('org.seleniumhq.selenium:selenium-java:3.141.59')
