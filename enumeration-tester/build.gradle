@@ -18,5 +18,5 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
 	compile('commons-io:commons-io:2.6')
-	compile('org.apache.httpcomponents:httpclient:4.5')
+	compile('org.apache.httpcomponents:httpclient:4.5.13')
 }
