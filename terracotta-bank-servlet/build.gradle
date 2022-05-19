@@ -116,7 +116,7 @@ dependencies {
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile('org.springframework.security:spring-security-test')
 
-	testCompile('com.github.docker-java:docker-java:3.0.14')
+	testCompile('com.github.docker-java:docker-java:3.2.12')
 	testCompile('com.github.mike10004:littleproxy:1.1.3socksmod1')
 	testCompile('io.github.bonigarcia:webdrivermanager:4.2.2')
  	testCompile('org.mockito:mockito-core')
